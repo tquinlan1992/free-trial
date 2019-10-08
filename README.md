@@ -1,3 +1,7 @@
+# To Start
+
+npm start
+
 # Take-home Project
 
 Before people can use Teikametrics software, they must first create an account and enter credit card information. This project is to implement a responsive 'free trial sign-up' page.
